@@ -1,2 +1,2 @@
-# quicklinks-
+# quicklinks
 Personal static navigation website
